@@ -1,0 +1,1 @@
+gcc -o rl.exe main.c draw.c generator.c -lmingw32 -lSDLmain -lSDL

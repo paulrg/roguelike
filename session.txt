@@ -1,0 +1,14 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="6">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="2080" startPos="0" endPos="0" selMode="0" lang="C" encoding="-1" filename="C:\Users\Paul\Development\roguelike\draw.c" backupFilePath="" originalFileLastModifTimestamp="1365379439" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="C++" encoding="-1" filename="C:\Users\Paul\Development\roguelike\draw.h" backupFilePath="" originalFileLastModifTimestamp="1365379425" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="C" encoding="-1" filename="C:\Users\Paul\Development\roguelike\generator.c" backupFilePath="" originalFileLastModifTimestamp="1392647854" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="C++" encoding="-1" filename="C:\Users\Paul\Development\roguelike\generator.h" backupFilePath="" originalFileLastModifTimestamp="1366000004" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="C++" encoding="-1" filename="C:\Users\Paul\Development\roguelike\globaldefs.h" backupFilePath="" originalFileLastModifTimestamp="1365888057" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="C" encoding="-1" filename="C:\Users\Paul\Development\roguelike\main.c" backupFilePath="" originalFileLastModifTimestamp="1365889578" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="2080" startPos="0" endPos="0" selMode="0" lang="Batch" encoding="-1" filename="C:\Users\Paul\Development\roguelike\make.bat" backupFilePath="" originalFileLastModifTimestamp="1365642329" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>

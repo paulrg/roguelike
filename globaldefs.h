@@ -4,6 +4,6 @@
 
 #define MAPX 20
 #define MAPY 20
-#define BLOCKHEIGHT 15
-#define BLOCKWIDTH 15
+#define BLOCKHEIGHT 20
+#define BLOCKWIDTH 20
 #define FRAMEDELAY 40
